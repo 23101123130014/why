@@ -1,2 +1,3 @@
 public class jomi1
+  }
 }
