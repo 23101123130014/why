@@ -1,3 +1,4 @@
+  public static void main(String [] args)
   {
     who("jacob ");
           who("mpoki ");
