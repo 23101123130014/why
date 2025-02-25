@@ -1,3 +1,4 @@
+public class asha
 {
   static void who(String n)
   {
