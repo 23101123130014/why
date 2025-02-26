@@ -1,0 +1,10 @@
+inport java.util.Scanner
+  
+  class js
+{
+  public static void main(String [] args)
+  {
+    Scannner ob = new Scanner(System.in);
+    String user;
+    //prompt to user to enter username the press enter 
+    System.out.println("ente username

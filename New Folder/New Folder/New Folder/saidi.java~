@@ -1,0 +1,11 @@
+public class saidi
+{
+  static void ali()
+  {
+    System.out.println("this is method in c++");
+  }
+  public static void main(String [] args)
+  {
+    ali();
+  }
+}

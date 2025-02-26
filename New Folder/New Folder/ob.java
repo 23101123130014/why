@@ -1,5 +1,9 @@
 public class ob
 {
+  int x = 2;
   public static void main(String []args)
   {
-    System
+    ob obb = new ob();
+    System.out.println(obb.x);
+  }
+}

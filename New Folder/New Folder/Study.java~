@@ -1,0 +1,16 @@
+public class Study
+{
+  int m = 34;
+  public static void main(String [] args)
+  {
+   Study ob = new Study();
+   Study ob2 = new Study();
+  Study ob3  = enw Study();
+  ob2.m = 50;
+  ob3.m = 89;
+  System.out.println(ob);
+  System.out.println(ob2);
+  System.out.println(ob3);
+  }
+}
+    
