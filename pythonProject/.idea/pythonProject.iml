@@ -1,4 +1,5 @@
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
