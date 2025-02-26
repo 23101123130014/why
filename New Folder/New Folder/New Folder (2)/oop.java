@@ -1,3 +1,4 @@
+  String membership;
   public static void main(String [] args)
   {
     oop u = new oop();
