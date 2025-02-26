@@ -1,3 +1,4 @@
+    u2.name = "mpoki";
     u2.membership = "member";
     
     System.out.println(u.name);
