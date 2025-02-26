@@ -1,3 +1,4 @@
+    u.membership = "leader";
     System.out.println("hello jacob");
     
     oop u2 = new oop();
