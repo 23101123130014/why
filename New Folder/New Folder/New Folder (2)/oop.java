@@ -1,3 +1,4 @@
+    System.out.println("hello jacob");
     
     oop u2 = new oop();
     u2.name = "mpoki";
