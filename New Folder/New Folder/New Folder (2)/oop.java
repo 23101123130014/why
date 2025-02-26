@@ -1,3 +1,4 @@
+    u.name = "jacob";
     u.membership = "leader";
     System.out.println("hello jacob");
     
