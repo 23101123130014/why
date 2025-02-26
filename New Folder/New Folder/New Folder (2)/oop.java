@@ -1,3 +1,4 @@
+    oop u2 = new oop();
     u2.name = "mpoki";
     u2.membership = "member";
     
