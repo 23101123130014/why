@@ -1,0 +1,10 @@
+public class said
+{
+  int x;
+  public static void main(String [] args)
+  {
+    said ob = new said();
+    ob.x = 23;
+    System.out.prntln(ob.x)
+  }
+}

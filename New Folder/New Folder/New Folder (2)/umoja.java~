@@ -1,0 +1,6 @@
+import java.util.Scanner;
+class umoja
+{
+  public static void main(String [] args)
+  {
+    
