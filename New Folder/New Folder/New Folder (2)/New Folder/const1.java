@@ -1,3 +1,4 @@
+public class const1
 {
   public void const1()
   {
