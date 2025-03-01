@@ -1,1 +1,11 @@
+public class const1
+{
+  public void const1()
+  {
+    System.outt.println("constructer in java object orienterd programming language");
+  }
+  public static void main(String [] args)
+  {
+    const1 ob = new const1();
+  }
 }
